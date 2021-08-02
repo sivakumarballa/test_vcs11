@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>aaabb</description>
+        <integration_table>cmdb_ci_acc</integration_table>
+        <internal_name>Siva</internal_name>
+        <name>Siva2</name>
+        <record_id/>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 13:07:21</sys_created_on>
+        <sys_id>bf20a74f53a130106c4bddeeff7b125b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Siva2</sys_name>
+        <sys_package display_value="App1" source="x_app1">5f310f8b536130106c4bddeeff7b1274</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">5f310f8b536130106c4bddeeff7b1274</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_bf20a74f53a130106c4bddeeff7b125b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 13:07:21</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App1">5f310f8b536130106c4bddeeff7b1274</application>
+        <file_path/>
+        <instance_id>b6c95cae8d2130108d59c6078b9fb812</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sn_ihub_integration_instance_bf20a74f53a130106c4bddeeff7b125b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>aaabb</description><integration_table>cmdb_ci_acc</integration_table><internal_name>Siva</internal_name><name>Siva2</name><record_id/><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-29 13:07:21</sys_created_on><sys_id>bf20a74f53a130106c4bddeeff7b125b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Siva2</sys_name><sys_package display_value="App1" source="x_app1">5f310f8b536130106c4bddeeff7b1274</sys_package><sys_policy/><sys_scope display_value="App1">5f310f8b536130106c4bddeeff7b1274</sys_scope><sys_update_name>sn_ihub_integration_instance_bf20a74f53a130106c4bddeeff7b125b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-29 13:07:21</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>905052518</payload_hash>
+        <record_name>Siva2</record_name>
+        <reverted_from/>
+        <source>db310f8b536130106c4bddeeff7b128f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 13:07:21</sys_created_on>
+        <sys_id>f720a74f53a130106c4bddeeff7b125d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17af26065e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 13:07:21</sys_updated_on>
+        <type>Integration Instance</type>
+        <update_guid>3320a74fffa1301082029c9b648a7c5d</update_guid>
+        <update_guid_history>3320a74fffa1301082029c9b648a7c5d:905052518</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Siva2">8a61fb8353e130106c4bddeeff7b120e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 14:22:36</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>3f3188e487a44a0ca87f68f423a74990</sys_id>
+        <sys_metadata>bf20a74f53a130106c4bddeeff7b125b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Siva2</sys_name>
+        <sys_package display_value="App1" source="x_app1">5f310f8b536130106c4bddeeff7b1274</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App1">5f310f8b536130106c4bddeeff7b1274</sys_scope>
+        <sys_scope_delete display_value="">52110cb46e28498aaba72ca1708ac644</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_bf20a74f53a130106c4bddeeff7b125b</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_bf20a74f53a130106c4bddeeff7b125b">f720a74f53a130106c4bddeeff7b125d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 14:22:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

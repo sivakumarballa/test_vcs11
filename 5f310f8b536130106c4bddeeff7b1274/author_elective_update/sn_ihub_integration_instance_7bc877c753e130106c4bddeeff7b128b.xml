@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>bbb</description>
+        <integration_table>cmdb_ci_lb_ace</integration_table>
+        <internal_name>bbb</internal_name>
+        <name>aaa</name>
+        <record_id/>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 14:55:10</sys_created_on>
+        <sys_id>7bc877c753e130106c4bddeeff7b128b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aaa</sys_name>
+        <sys_package display_value="App1" source="x_app1">5f310f8b536130106c4bddeeff7b1274</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App1">5f310f8b536130106c4bddeeff7b1274</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_7bc877c753e130106c4bddeeff7b128b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 14:55:10</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App1">5f310f8b536130106c4bddeeff7b1274</application>
+        <file_path/>
+        <instance_id>b6c95cae8d2130108d59c6078b9fb812</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sn_ihub_integration_instance_7bc877c753e130106c4bddeeff7b128b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>bbb</description><integration_table>cmdb_ci_lb_ace</integration_table><internal_name>bbb</internal_name><name>aaa</name><record_id/><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-29 14:55:10</sys_created_on><sys_id>7bc877c753e130106c4bddeeff7b128b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>aaa</sys_name><sys_package display_value="App1" source="x_app1">5f310f8b536130106c4bddeeff7b1274</sys_package><sys_policy/><sys_scope display_value="App1">5f310f8b536130106c4bddeeff7b1274</sys_scope><sys_update_name>sn_ihub_integration_instance_7bc877c753e130106c4bddeeff7b128b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-29 14:55:10</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>1835292361</payload_hash>
+        <record_name>aaa</record_name>
+        <reverted_from/>
+        <source>db310f8b536130106c4bddeeff7b128f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 14:55:10</sys_created_on>
+        <sys_id>9fd8fb8753e130106c4bddeeff7b1230</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17af2c31c380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 14:55:10</sys_updated_on>
+        <type>Integration Instance</type>
+        <update_guid>d7d8fb87e8e1301009faceddebfa0b30</update_guid>
+        <update_guid_history>d7d8fb87e8e1301009faceddebfa0b30:1835292361</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="aaa">7bbdb78b53e130106c4bddeeff7b12a9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 15:16:31</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>15035f2fa83e45f6824b9fae91f74e51</sys_id>
+        <sys_metadata>7bc877c753e130106c4bddeeff7b128b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aaa</sys_name>
+        <sys_package display_value="App1" source="x_app1">5f310f8b536130106c4bddeeff7b1274</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App1">5f310f8b536130106c4bddeeff7b1274</sys_scope>
+        <sys_scope_delete display_value="">52110cb46e28498aaba72ca1708ac644</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_7bc877c753e130106c4bddeeff7b128b</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_7bc877c753e130106c4bddeeff7b128b">9fd8fb8753e130106c4bddeeff7b1230</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 15:16:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
